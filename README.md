@@ -1,4 +1,4 @@
-# Digital Signal Processing-EnglishAlphaCharVoiceFreq-Encoder-Decoder
+# Digital Signal Processing-EnglishAlphaChar-Encoder-Decoder
 
 ## Overview
 This project focuses on encoding and decoding text into audio signals using Python and Digital Signal Processing (DSP) techniques like Fast Fourier Transform (FFT) and bandpass filtering.
